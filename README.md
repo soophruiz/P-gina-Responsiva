@@ -1,6 +1,6 @@
 # 🎬 Como Perder um Homem em 10 Dias - Página Responsiva
 
-Este é um projeto de página responsiva desenvolvido com HTML, CSS e JavaScript que apresenta o filme **"Como Perder um Homem em 10 Dias"**. A proposta é exibir uma landing page moderna e adaptável a diferentes dispositivos, com informações sobre o filme, trailer, planos da Netflix e uma página de contato.
+Este é um projeto de página responsiva desenvolvido com HTML, CSS e JavaScript que apresenta o filme **"Como Perder um Homem em 10 Dias"**. A proposta é exibir uma landing page moderna e adaptável a diferentes dispositivos, com informações sobre o filme, trailer, planos da Netflix e um formulário de contato de contato.
 
 ## 🚀 Funcionalidades
 
